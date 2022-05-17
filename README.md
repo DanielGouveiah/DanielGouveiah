@@ -1,4 +1,5 @@
 # Estudante de desenvolvimento front-end com foco em React.js
+### Student of web development with focus in React.js
 
 
 <div>
