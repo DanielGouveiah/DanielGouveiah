@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="100%" src="https://github.com/DanielGouveiah/DanielGouveiah/blob/main/banner-github.png?raw=true"/>
+  <a href="https://danielgouveiah.github.io/portfolio/"> 
+   <img height="100%" src="https://github.com/DanielGouveiah/DanielGouveiah/blob/main/banner-github.png?raw=true"/>
+  </a>
 </div>
 
 
