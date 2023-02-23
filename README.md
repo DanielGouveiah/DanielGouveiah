@@ -69,6 +69,8 @@
 <p align="center">
   <a href="https://github.com/DanielGouveiah/portfolio">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielgouveiah&repo=portfolio&theme=react&bg_color=0D1117" alt="portfolio"></a>
+  <a href="https://github.com/DanielGouveiah/mytodo">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielgouveiah&repo=mytodo&theme=react&bg_color=0D1117" alt="my todo"></a>
   <a href="https://github.com/DanielGouveiah/bikcraft">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielgouveiah&repo=bikcraft&theme=react&bg_color=0D1117" alt="bikcraft"></a>
   <a href="https://github.com/DanielGouveiah/react-dojoBlog">
@@ -77,8 +79,6 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielgouveiah&repo=animais-fantasticos&theme=react&bg_color=0D1117" alt="animais-fantasticos"></a>
       <a href="https://github.com/DanielGouveiah/nlw-esports-ignite">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielgouveiah&repo=nlw-esports-ignite&theme=react&bg_color=0D1117" alt="nlw-esports-ignite"></a>
-      <a href="https://github.com/DanielGouveiah/react-timer">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielgouveiah&repo=react-timer&theme=react&bg_color=0D1117" alt="react-timer"></a>
 </p>
   
   <div align="center">
