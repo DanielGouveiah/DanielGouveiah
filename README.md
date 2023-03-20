@@ -11,6 +11,7 @@
  - 🎓 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Ci%C3%AAncia_da_computa%C3%A7%C3%A3o" target="_blank">Ciência da computação</a>.
  - 🌱 Desenvolvedor <a href="https://en.wikipedia.org/wiki/Front-end_web_development" target="_blank">Front-end</a> em formação.
  - 📖 Atualmente estudando React.js.
+ - ✨ Último projeto: <a href="https://github.com/DanielGouveiah/mytodo" target="_blank">My ToDo.</a>
  
  ****
 
