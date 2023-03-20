@@ -88,7 +88,8 @@
 
 </details>
 
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=471069&height=120&section=footer"/>
+<a href="https://github.com/DanielGouveiah">
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=471069&height=120&section=footer"/>
+</a>
 
 
