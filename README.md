@@ -33,6 +33,10 @@
   <a href="https://github.com/DanielGouveiah">
     <img src="https://skills.thijs.gg/icons?i=react"/>
   </a>
+ 
+   <a href="https://github.com/DanielGouveiah">
+    <img src="https://skills.thijs.gg/icons?i=vite"/>
+  </a>
     
   <a href="https://github.com/DanielGouveiah">
     <img src="https://skills.thijs.gg/icons?i=figma"/>
