@@ -1,5 +1,5 @@
 <a href="https://danibarbosadev.vercel.app/"> 
- <img height="100%" src="https://github.com/DanielGouveiah/DanielGouveiah/blob/main/banner-github.png?raw=true"/>
+ <img height="100%" src="https://github.com/DanielGouveiah/DanielGouveiah/blob/main/banner_github.png?raw=true"/>
 </a>
 
 <a href="https://github.com/DanielGouveiah"> 
