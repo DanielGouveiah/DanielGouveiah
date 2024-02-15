@@ -67,7 +67,7 @@
 
 ### Redes Sociais 🌎
 <div>
-  <a  href="https://www.linkedin.com/in/daniel-barbosa-425036220/" target="_blank"><img height="32em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/danielbarbosadev/" target="_blank"><img height="32em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="mailto:danielgouveiaah@gmail.com"><img height="32em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://www.instagram.com/deniels_gouveia/" target="_blank"><img height="32em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </div>
